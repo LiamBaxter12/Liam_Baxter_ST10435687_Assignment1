@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="whitee">#9EECE5E4</color>
+    <color name="icetea">#C4FF9800</color>
+    <color name="buttonbrown">#DEB887</color>
+    <color name="coolbreeze">#FFA07A</color>
+</resources>

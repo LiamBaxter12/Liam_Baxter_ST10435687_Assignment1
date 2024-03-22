@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="my1">My</string>
+    <string name="history1">History</string>
+    <string name="app1">App</string>
+    <string name="EnterAge">Enter Age</string>
+    <string name="Generate">Generate History</string>
+    <string name="Clear">Clear</string>
+    <string name="numberText"> enter age here</string>
+</resources>
