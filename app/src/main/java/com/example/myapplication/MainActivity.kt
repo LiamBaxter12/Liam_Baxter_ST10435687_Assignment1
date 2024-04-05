@@ -1,5 +1,6 @@
 package com.example.myapplication
 
+import android.annotation.SuppressLint
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
@@ -31,6 +32,7 @@ class MainActivity : AppCompatActivity() {
             }
         }
 
+        @SuppressLint("SetTextI18n")
         private fun generateHistory() {
             val ageText = ageEditText.text.toString()
 

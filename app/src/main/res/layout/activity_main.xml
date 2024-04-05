@@ -139,7 +139,7 @@
         android:backgroundTint="@color/whitee"
         android:rotationX="8"
         android:textColor="#120F0F"
-        android:textSize="44sp"
+        android:textSize="30sp"
         android:visibility="visible"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
